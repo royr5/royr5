@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋🏽
+Learning how to code by going through Northcoders Software Engineering Bootcamp
 
 <!--
 **royr5/royr5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
